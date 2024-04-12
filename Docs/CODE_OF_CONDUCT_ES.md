@@ -1,6 +1,6 @@
 # Código de Conducta
 
-La comunidad de "Grupo 5" espera que las actividades:
+La comunidad de "Grupo Delicadito" espera que las actividades:
 
 1. Sean un ambiente seguro y de respeto para todos los participantes.
 2. Sean un lugar donde puedan expresar sus identidades libremente.
@@ -13,19 +13,24 @@ La comunidad de "Grupo 5" espera que las actividades:
 9. Activamente involucrar grupos comunitarios y aquellos que tienen experiencia en el tema y en el proceso de toma de decisiones.
 10. Asegurar que las conversaciones entre los miembros de la comunidad, y amigos de la comunidad sean respetuosas, productivas y participativas.
 11. Proveer un ambiente libre de discriminación y hostigamiento.
+12. Respeto: Tratar a todos los jugadores con cortesía y respeto, independientemente de su habilidad o experiencia.No discriminación: 13. No tolerar discursos de odio, acoso, o comportamientos discriminatorios basados en raza, género, orientación sexual, etc.
+13. Fair Play: Jugar limpio, sin hacer trampas, usar exploits o participar en comportamientos injustos que arruinen la experiencia de juego de otros.
+14. Colaboración: Trabajar en equipo y comunicarse de manera constructiva para lograr objetivos comunes en los juegos multijugador.
+15. Protección de menores: Mantener un ambiente adecuado para jugadores más jóvenes, evitando lenguaje inapropiado o contenidos no aptos.
+
+    # Es importante seguir estas pautas para promover una comunidad gamer positiva y acogedora para todos los jugadores.
  
+"Grupo delicadito" se reserva el derecho de pedirle a cualquier persona que no participe de sus actividades si ha violentado alguna de estas reglas.
 
-"Grupo 5" se reserva el derecho de pedirle a cualquier persona que no participe de sus actividades si ha violentado alguna de estas reglas.
-
-## Política Anti Acoso de "Grupo 5"
+## Política Anti Acoso de "Grupo Delicadito"
 
 Esta política esta basada en [este ejemplo](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy) encontrado en el Wiki de "Geek Feminism" creado por el "Ada Initiative" y otros voluntarios.
 
 ----
 
-Todo el personal, presentador y participante de eventos de "Grupo 5" está sujeto a la política anti-hostigamiento que está a continuación.
+Todo el personal, presentador y participante de eventos de "Grupo delicadito" está sujeto a la política anti-hostigamiento que está a continuación.
 
-"Grupo 5" está comprometida con proveer una experiencia sin hostigamiento para todos sin importar su género, identidad y expresión de género, orientación sexual, incapacidad física, apariencia física, tamaño corporal, etnia, edad o religión. No se tolera acoso de ninguna índole hacia los organizadores, presentadores o participantes. Lenguaje y/o imágenes de índole sexual no son apropiadas, presentación o actividad de "Grupo 5". Cualquier persona que violente estas políticas será expulsado, de la actividad de "Grupo 5".
+"Grupo 5" está comprometida con proveer una experiencia sin hostigamiento para todos sin importar su género, identidad y expresión de género, orientación sexual, incapacidad física, apariencia física, tamaño corporal, etnia, edad o religión. No se tolera acoso de ninguna índole hacia los organizadores, presentadores o participantes. Lenguaje y/o imágenes de índole sexual no son apropiadas, presentación o actividad de "Grupo". Cualquier persona que violente estas políticas será expulsado, de la actividad de "Grupo 5".
 
 Hostigamiento incluye pero no se limita a: comentarios ofensivos, tanto verbales o escritos, referente a género, identidad o expresión de género, orientación sexual, incapacidad física, apariencia física, tamaño corporal, etnia, religión; imágenes sexuales en espacios públicos; intimidación deliberada; acecho; grabación o fotografía acosante; interrupción o sabotaje constante de eventos o presentaciones; contacto físico inapropiado; atención sexual no deseado; exclusión injustificada; y acciones o lenguaje despectivo.
 
@@ -35,7 +40,7 @@ Si estas recibiendo o te sientes acosado, te percatas que alguien esta siendo ac
 
 De no poder conseguir a los organizadores y es una emergencia por favor contacte al 911, o al número de emergencias de su localidad, y/o remuévase de la situación hasta que llegue ayuda o se sienta seguro.
 
-También puede contactar a "Grupo 5" sobre alguna situación de acoso en particular utilizando la cuenta de correo electrónico que es **Neylethquintero1997@gmail.com**. Puede utilizar la siguiente plantilla para enviar su correo electrónico. Los miembros de "Grupo 5" Esperamos que al proveer esta guía de comportamiento estamos estableciendo una comunidad que se adhiere a estos valores y pueda proveer un ambiente agradable e inclusivo para todos.
+También puede contactar a "Grupo Delicadito" sobre alguna situación de acoso en particular utilizando la cuenta de correo electrónico que es **correocorrespondiente@gmail.com**. Puede utilizar la siguiente plantilla para enviar su correo electrónico. Los miembros de "Grupo 5" Esperamos que al proveer esta guía de comportamiento estamos estableciendo una comunidad que se adhiere a estos valores y pueda proveer un ambiente agradable e inclusivo para todos.
 
 Valoramos su presencia y esperamos que al comunicar estas expectativas todos podamos disfrutar de un ambiente libre de acoso.
 
@@ -43,7 +48,7 @@ Valoramos su presencia y esperamos que al comunicar estas expectativas todos pod
 
 TEMA: REPORTAR ACOSO
 
-Estoy escribiendo para reportar una situación de acoso de "Grupo 5", (NOMBRE, LUGAR, FECHA).
+Estoy escribiendo para reportar una situación de acoso de "Grupo delicadito", (NOMBRE, LUGAR, FECHA).
 
 Me pueden contactar en (INFORMACIÓN DE CONTACTO). Gracias.
 
